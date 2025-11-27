@@ -79,5 +79,3 @@ sudo python3 TESTE DESEJADO
 
 ## 📜 Licença
 Este projeto foi desenvolvido para fins acadêmicos como requisito para obtenção do título de Engenheiro Eletricista. Sinta-se à vontade para utilizá-lo como referência, citando a autoria.
-
-Arthur Vieira de Assis Moreira - 2025
